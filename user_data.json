@@ -1,0 +1,172 @@
+[
+  {
+    "username": "suraj123",
+    "name": "Suraj",
+    "gender": "male",
+    "qualification": "B.Tech",
+    "department": "Software Engineering",
+    "mobile": "9536782410",
+    "email": "suraj@example.com",
+    "address": {
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "pincode": "834001"
+    },
+    "salary": 75000,
+    "experience": "5 years",
+    "skills": ["Python", "Django", "SQL"]
+  },
+  {
+    "username": "divya173",
+    "name": "Divya",
+    "gender": "female",
+    "qualification": "B.Sc",
+    "department": "Biotechnology",
+    "mobile": "97635782410",
+    "email": "divya@example.com",
+    "address": {
+      "city": "Patna",
+      "state": "Bihar",
+      "pincode": "800001"
+    },
+    "salary": 50000,
+    "experience": "2 years",
+    "skills": ["Research", "Data Analysis"]
+  },
+  {
+    "username": "anuradha223",
+    "name": "Anuradha",
+    "gender": "female",
+    "qualification": "M.Tech",
+    "department": "Electronics",
+    "mobile": "959658631",
+    "email": "anuradha@example.com",
+    "address": {
+      "city": "Patna",
+      "state": "Bihar",
+      "pincode": "800001"
+    },
+    "salary": 82000,
+    "experience": "6 years",
+    "skills": ["VLSI Design", "Embedded Systems"]
+  },
+  {
+    "username": "suresh423",
+    "name": "Suresh",
+    "gender": "male",
+    "qualification": "MBA",
+    "department": "Finance",
+    "mobile": "94569821510",
+    "email": "suresh@example.com",
+    "address": {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "pincode": "226001"
+    },
+    "salary": 98000,
+    "experience": "10 years",
+    "skills": ["Financial Analysis", "Stock Market"]
+  },
+  {
+    "username": "sheetal13",
+    "name": "Sheetal",
+    "gender": "female",
+    "qualification": "B.A",
+    "department": "Literature",
+    "mobile": "8524697852",
+    "email": "sheetal@example.com",
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110001"
+    },
+    "salary": 45000,
+    "experience": "1 year",
+    "skills": ["Writing", "Editing"]
+  },
+  {
+    "username": "simran53",
+    "name": "Simran",
+    "gender": "female",
+    "qualification": "M.Sc",
+    "department": "Physics",
+    "mobile": "569874125",
+    "email": "simran@example.com",
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110001"
+    },
+    "salary": 60000,
+    "experience": "3 years",
+    "skills": ["Quantum Mechanics", "Teaching"]
+  },
+  {
+    "username": "akash163",
+    "name": "Akash",
+    "gender": "male",
+    "qualification": "BCA",
+    "department": "Computer Applications",
+    "mobile": "9569874125",
+    "email": "akash@example.com",
+    "address": {
+      "city": "Patna",
+      "state": "Bihar",
+      "pincode": "800001"
+    },
+    "salary": 55000,
+    "experience": "2 years",
+    "skills": ["Java", "Web Development"]
+  },
+  {
+    "username": "kishan205",
+    "name": "Kishan",
+    "gender": "male",
+    "qualification": "B.Tech",
+    "department": "CSE",
+    "mobile": "7352000000",
+    "email": "kishan@nitt.edu",
+    "address": {
+      "city": "Prayagraj",
+      "state": "Uttar Pradesh",
+      "pincode": "211001"
+    },
+    "salary": 70000,
+    "experience": "4 years",
+    "skills": ["Machine Learning", "AI"]
+  },
+  {
+    "username": "vivek204",
+    "name": "Vivek",
+    "gender": "male",
+    "qualification": "B.Com",
+    "department": "Commerce",
+    "mobile": "9525099999",
+    "email": "VIVEK@nitt.edu",
+    "address": {
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "pincode": "834002"
+    },
+    "salary": 48000,
+    "experience": "2 years",
+    "skills": ["Accounting", "Taxation"]
+  },
+  {
+    "username": "deepa215",
+    "name": "Deepa",
+    "gender": "female",
+    "qualification": "MBA",
+    "department": "Business Administration",
+    "mobile": "9525199999",
+    "email": "DEEPA@nitt.edu",
+    "address": {
+      "city": "Patna",
+      "state": "Bihar",
+      "pincode": "800002"
+    },
+    "salary": 85000,
+    "experience": "6 years",
+    "skills": ["Marketing", "Leadership"]
+  }
+]
